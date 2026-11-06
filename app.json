@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Chef Menu Manager",
+    "slug": "chef-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f5f7f3"
+    },
+    "android": {
+      "package": "com.student.chefmenumanager"
+    },
+    "ios": {
+      "bundleIdentifier": "com.student.chefmenumanager"
+    }
+  }
+}
